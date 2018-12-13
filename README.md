@@ -1,4 +1,4 @@
-# Silent-Pesterers
+# Silence Calls from the Selected Users
 This Android App helps you to avoid the calls of the people you don't want to talk to !! You can create a list of people, you don't want to talk to and the app will not let your mobile ring when anyone from the list will call !!
 
 ## Key Features
